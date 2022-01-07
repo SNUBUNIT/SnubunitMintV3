@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB5CfF2BA3D806374061e0a3289c86571C072E78e",
+  "SCAN_LINK": "https://polygonscan.com/token/0xB5CfF2BA3D806374061e0a3289c86571C072E78e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "SNUB UNIT",
+  "SYMBOL": "SNUB",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/snubunit",
+  "SHOW_BACKGROUND": true
+}
